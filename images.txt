@@ -5,3 +5,4 @@ xhofe/alist:latest
 dingdangdog/cashbook
 ghcr.io/heyputer/puter
 ghcr.io/linuxserver/bookstack:latest
+ghcr.io/zyronon/douyin-vue:latest
