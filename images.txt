@@ -8,3 +8,4 @@ ghcr.io/linuxserver/bookstack:latest
 ghcr.io/zyronon/douyin-vue:latest
 blueedge/win11react
 deluan/navidrome
+xhongc/music_tag_web
