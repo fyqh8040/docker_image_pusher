@@ -7,3 +7,4 @@ ghcr.io/heyputer/puter
 ghcr.io/linuxserver/bookstack:latest
 ghcr.io/zyronon/douyin-vue:latest
 blueedge/win11react
+deluan/navidrome
