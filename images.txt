@@ -11,3 +11,4 @@ deluan/navidrome
 xhongc/music_tag_web
 xhofe/alist:latest
 p3terx/aria2-pro:latest
+p3terx/ariang
