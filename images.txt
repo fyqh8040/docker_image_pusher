@@ -14,3 +14,4 @@ p3terx/aria2-pro:latest
 p3terx/ariang
 cloudnas/clouddrive2
 xiaoyaliu/alist
+ddsderek/xiaoyakeeper
