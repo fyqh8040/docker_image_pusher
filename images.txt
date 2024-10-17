@@ -16,3 +16,4 @@ cloudnas/clouddrive2
 xiaoyaliu/alist
 ddsderek/xiaoyakeeper
 shenxianmq/auto_symlink:latest
+xhofe/alist:latest
