@@ -1,12 +1,6 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
 dingdangdog/cashbook
-ghcr.io/heyputer/puter
 ghcr.io/linuxserver/bookstack:latest
-ghcr.io/zyronon/douyin-vue:latest
-blueedge/win11react
 deluan/navidrome
 xhongc/music_tag_web
 xhofe/alist:latest
@@ -16,4 +10,4 @@ cloudnas/clouddrive2
 xiaoyaliu/alist
 ddsderek/xiaoyakeeper
 shenxianmq/auto_symlink:latest
-xhofe/alist:latest
+syncthing/syncthing:latest
